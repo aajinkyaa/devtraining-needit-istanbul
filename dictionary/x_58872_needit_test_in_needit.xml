@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="update_synch=true" extends="sys_metadata" label="test in needit" max_length="40" name="x_58872_needit_test_in_needit" type="collection"/>
+    <element attributes="update_synch=true" extends="sys_metadata" label="test in needit" max_length="40" name="x_58872_needit_test_in_needit" type="collection">
+        <element label="rock3" max_length="100" name="u_rock3" type="string"/>
+    </element>
 </database>
